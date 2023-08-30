@@ -20,4 +20,6 @@ int main() {
 
     printf("%i/%02i/%02i %10f %10f %2d%%\n", y1, m1, d1, high1, low1, prec1);
     printf("%i/%02i/%02i %10f %10f %2d%%\n", y2, m2, d2, high2, low2, prec2);
+
+    return 0;
 }

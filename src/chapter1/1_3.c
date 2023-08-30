@@ -9,4 +9,6 @@ int main() {
     printf("decimal number? ");
     scanf("%d", &input);
     printf("hexadecimal = %x\n", input);
+
+    return 0;
 }
